@@ -10,6 +10,6 @@
 const { id } = useRoute().params
 </script>
 
-<style>
+<style scoped>
 
 </style>

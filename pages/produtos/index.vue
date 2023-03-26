@@ -1,14 +1,15 @@
 <template>
     <div>
-        <h2 class="font-bold">produtos</h2>
-        <p>description for products</p>
+        <h1 class="font-bold">produtos</h1>
     </div>
 </template>
 
-<script>
-
+<script setup>
+definePageMeta({
+    layout: 'produtos'
+})
 </script>
 
-<style>
+<style scoped>
 
 </style>
