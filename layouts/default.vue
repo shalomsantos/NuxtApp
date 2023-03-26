@@ -7,7 +7,6 @@
                 <li><NuxtLink class="font-bold" to="/about">about</NuxtLink></li>
                 <li><NuxtLink class="font-bold btn" to="/produtos">produtos</NuxtLink></li>
             </ul>
-            <a href="/about">Normal link -- about page</a>
         </nav>
     </header>
     <div class="container mx-auto p-4">
