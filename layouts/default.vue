@@ -1,5 +1,5 @@
 <template>
-    <header class="shadow-sm bg-white">
+    <header>
         <nav>
             <ul id="ul-Principal">
                 <li class="li-p"><a href="">Home</a></li>           
